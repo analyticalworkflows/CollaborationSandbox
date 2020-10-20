@@ -1,1 +1,2 @@
-# this is my edit to test.R script on the master, which will create a conflic
+# this is my merged bit of text
+
